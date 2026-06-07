@@ -15,9 +15,6 @@ Open your **Terminal** (Mac/Linux) and paste this:
 ```bash
 curl -fsSL https://raw.githubusercontent.com/jaihook/claude-token-stack/main/install-claude-token-stack.sh | bash
 ```
-
-> **Replace `jaihook`** with your GitHub username after you publish this repo.
-
 That's it. The script installs and wires up all 5 layers automatically.
 
 ---
