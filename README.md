@@ -152,6 +152,13 @@ The script is open source — you can read it and run any individual install com
 **Is this safe?**
 Yes. The script only installs open-source tools from their official repositories. It doesn't touch your API keys or Claude account.
 
+**How do I uninstall?**
+One command removes all 5 layers:
+```bash
+curl -fsSL https://raw.githubusercontent.com/jaihook/claude-token-stack/main/uninstall-claude-token-stack.sh | bash
+```
+Then restart your terminal and Claude Code.
+
 ---
 
 ## Contributing
